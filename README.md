@@ -59,4 +59,4 @@ Built as a learning project to explore web development using HTML, CSS, and Java
 
 ---
 
-⭐ Thank you for checking out my Dice Roller project!](https://github.com/cse260001002/Dice-Roller-.git)
+⭐ Thank you for checking out my Dice Roller project
