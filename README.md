@@ -36,12 +36,9 @@ Dice-Roller/
 ├── screenshot.png
 └── README.md
 
-🚀 How to Run Locally
+🚀 How to Run
 
-1. The link for my website is  https://cse260001002.github.io/Dice-Roller-/
-2. Open the downloaded project folder.
-
-3. Open "index.html" in your web browser.
+ The link for my website is  https://cse260001002.github.io/Dice-Roller-/
 
 No additional dependencies are required for this basic HTML, CSS, and JavaScript project.
 
