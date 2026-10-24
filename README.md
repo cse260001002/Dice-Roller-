@@ -38,9 +38,7 @@ Dice-Roller/
 
 🚀 How to Run Locally
 
-1. Clone this repository:
-   
-   git clone https://cse260001002.github.io/Dice-Roller-/
+1. The link for my website is  https://cse260001002.github.io/Dice-Roller-/
 2. Open the downloaded project folder.
 
 3. Open "index.html" in your web browser.
