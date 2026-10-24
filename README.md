@@ -40,7 +40,7 @@ Dice-Roller/
 
 1. Clone this repository:
    
-   git clone!](https://github.com/cse260001002/Dice-Roller-.git)
+   git clone https://cse260001002.github.io/Dice-Roller-/
 2. Open the downloaded project folder.
 
 3. Open "index.html" in your web browser.
